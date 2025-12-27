@@ -1,29 +1,29 @@
 # Restaurant & Consumer Data MySQL Project
 
--> Designed and implemented a relational database using MySQL
+- Designed and implemented a relational database using MySQL
 
--> Analyzed consumer demographics such as age, city, occupation, and lifestyle
+- Analyzed consumer demographics such as age, city, occupation, and lifestyle
 
--> Studied restaurant details including cuisine, pricing, alcohol service, and parking
+- Studied restaurant details including cuisine, pricing, alcohol service, and parking
 
--> Explored consumer preferences and restaurant ratings data
+- Explored consumer preferences and restaurant ratings data
 
--> Used SQL joins to connect consumers, restaurants, and ratings tables
+- Used SQL joins to connect consumers, restaurants, and ratings tables
 
--> Applied filtering, grouping, and aggregation to extract insights
+- Applied filtering, grouping, and aggregation to extract insights
 
--> Calculated average restaurant ratings and cuisine-wise performance
+- Calculated average restaurant ratings and cuisine-wise performance
 
--> Identified top-rated restaurants using ranking techniques
+- Identified top-rated restaurants using ranking techniques
 
--> Used subqueries and CTEs for complex data analysis
+- Used subqueries and CTEs for complex data analysis
 
--> Performed city-wise and consumer-type analysis
+- Performed city-wise and consumer-type analysis
 
--> Focused on understanding customer behavior patterns
+- Focused on understanding customer behavior patterns
 
--> Enabled insights useful for recommendation systems
+- Enabled insights useful for recommendation systems
 
--> Followed clean SQL practices and query optimization
+- Followed clean SQL practices and query optimization
 
--> Organized queries for readability and maintainability
+- Organized queries for readability and maintainability
